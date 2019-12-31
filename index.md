@@ -8,18 +8,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+I am fifth year Phd student at SCMS, Fudan University and my adviser is Prof.Chen meng and Prof. Lizhiyuan.
+Interest: Algebraic Geometry and Related Topics. Now I work on compactification of moduli space and cohomology (chow ) theory on moduli space.
 
-# Header  K3 Surface
-## Header 
-### Header 
+Notes:
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Papers:
 
 **Bold** and _Italic_ and `Code` text
 
