@@ -3,25 +3,19 @@
 I am fifth year Phd student at SCMS, Fudan University and my adviser is Prof.Chen meng and Prof. Lizhiyuan.
 Interest: Algebraic Geometry and Related Topics. Now I work on compactification of moduli space and cohomology (chow ) theory on moduli space.
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### CV:
 
 
-Notes:
+### Notes:
 
 
-Papers:
+### Papers:
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+ Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Changfeng1992/SiFei/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
