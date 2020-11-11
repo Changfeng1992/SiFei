@@ -11,7 +11,7 @@ Interest: Algebraic Geometry and Related Topics. Now I work on compactification 
 
 ### Papers:
 <td width="25%">
-      <img src="/cohomology_I (1).pdf" width="100%">      % 插入证件照代码
+      <img src="/cohomology_I (1).pdf" width="100%">     
     </td>
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Changfeng1992/SiFei/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
