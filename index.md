@@ -11,7 +11,7 @@ Research Interest: Algebraic Geometry and Related Topics. Currently I work on co
 
 
 ### Papers:
-[1. cohomology of moduli space of cubic fourfolds I] ![Alt text](/path/to/cohomology_I (1).pdf"Optional title")
+[1. cohomology of moduli space of cubic fourfolds I] [Contribution guidelines for this project](docs/cohomology_I.pdf)
 
 [2. Compactifications of moduli space of K3 surfaces of degree 6, with Fran\c cois Greer, Radu Laza, Zhiyuan Li, Zhiyu Tian ]
 
@@ -33,7 +33,7 @@ Enumarative geometrers:
 
 Birational geometrers:
 
-[Jiang chen](http://homepage.fudan.edu.cn/chenjiang/)
+[Jiangchen](http://homepage.fudan.edu.cn/chenjiang/)
 [Xuchenyang](https://web.math.princeton.edu/~chenyang/)
 [Liu yuchen](https://web.math.princeton.edu/~yuchenl/)
 [Alexeev](http://alpha.math.uga.edu/~valery/)
@@ -46,7 +46,8 @@ IHS
 [Voisin](https://webusers.imj-prg.fr/~claire.voisin/)
 [Huybrechtz](http://www.math.uni-bonn.de/~huybrech/)
 [Debarre](https://webusers.imj-prg.fr/olivier.debarre)
-
+[Macri](https://www.imo.universite-paris-saclay.fr/~macri/)
 Arithmetic geomter
 
-[Schole](http://www.math.uni-bonn.de/people/scholze/)
+[Scholze](http://www.math.uni-bonn.de/people/scholze/)
+
