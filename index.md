@@ -13,9 +13,6 @@ Research Interest: Algebraic Geometry and Related Topics. Currently I work on co
 ### Papers:
 [1. cohomology of moduli space of cubic fourfolds I] [Contribution guidelines for this project](docs/cohomology_I.pdf)
 
-content-disposition: attachment(cohomology_I.pdf)
-
-Here is a [sample](https://github.com/Changfeng1992/SiFei/blob/master/cohomology_I%20(1).pdf)
 
 <embed src="https://https://changfeng1992.github.io/cohomology_I.pdf" type="application/pdf" />
 
