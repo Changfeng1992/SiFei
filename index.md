@@ -16,6 +16,7 @@ Research Interest: Algebraic Geometry and Related Topics. Currently I work on co
 content-disposition: attachment(cohomology_I.pdf)
 
 ('Content-Disposition', contentDisposition('cohomology_I.pdf'))
+res.setHeader('Content-Disposition', contentDisposition('cohomology_I.pdf'))
 
 [2. Compactifications of moduli space of K3 surfaces of degree 6, with Fran\c cois Greer, Radu Laza, Zhiyuan Li, Zhiyu Tian ]
 
