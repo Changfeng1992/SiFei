@@ -17,6 +17,8 @@ content-disposition: attachment(cohomology_I.pdf)
 
 Here is a [sample](https://github.com/Changfeng1992/SiFei/blob/master/cohomology_I%20(1).pdf)
 
+<embed src="https://https://changfeng1992.github.io/cohomology_I.pdf" type="application/pdf" />
+
 [2. Compactifications of moduli space of K3 surfaces of degree 6, with Fran\c cois Greer, Radu Laza, Zhiyuan Li, Zhiyu Tian ]
 
 [3. K-moduli of log del pezzo pairs and K3 surfaces, in preparation]
