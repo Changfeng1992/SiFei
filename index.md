@@ -11,7 +11,7 @@ Research Interest: Algebraic Geometry and Related Topics. Currently I work on co
 
 
 ### Papers:
-[1. cohomology of moduli space of cubic fourfolds I] ![Alt text](/path/to/cohomology_I (1).pdf)
+[1. cohomology of moduli space of cubic fourfolds I] ![Alt text](/path/to/cohomology_I (1).pdf"Optional title")
 
 [2. Compactifications of moduli space of K3 surfaces of degree 6, with Fran\c cois Greer, Radu Laza, Zhiyuan Li, Zhiyu Tian ]
 
