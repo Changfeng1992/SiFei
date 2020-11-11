@@ -10,12 +10,11 @@ Interest: Algebraic Geometry and Related Topics. Now I work on compactification 
 
 
 ### Papers:
-[1. cohomology of moduli space of cubic fourfolds I] (/cohomology_I (1)/)
+[1. cohomology of moduli space of cubic fourfolds I] 
 
 [2. Compactifications of moduli space of K3 surfaces of degree 6, with Fran\c cois Greer, Radu Laza, Zhiyuan Li, Zhiyu Tian ]
 
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Changfeng1992/SiFei/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[3. K-moduli of log del pezzo pairs and K3 surfaces, in preparation]
 
 ### Email
 
