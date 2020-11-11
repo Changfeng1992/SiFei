@@ -22,3 +22,17 @@ Research Interest: Algebraic Geometry and Related Topics. Currently I work on co
 fsi15@fudan.deu.cn
 
 ### Useful Links
+
+Enumarative geometrers:
+
+[Rahul](https://people.math.ethz.ch/~rahul/)
+
+Birational geometrers:
+
+[Jiang chen](http://homepage.fudan.edu.cn/chenjiang/)
+[Xuchenyang](https://web.math.princeton.edu/~chenyang/)
+[Liu yuchen](https://web.math.princeton.edu/~yuchenl/)
+
+Hodge theory experts:
+
+[Voisin](https://webusers.imj-prg.fr/~claire.voisin/)
