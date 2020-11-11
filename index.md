@@ -37,7 +37,16 @@ Birational geometrers:
 [Xuchenyang](https://web.math.princeton.edu/~chenyang/)
 [Liu yuchen](https://web.math.princeton.edu/~yuchenl/)
 [Alexeev](http://alpha.math.uga.edu/~valery/)
+[Hacon](http://www.math.utah.edu/~hacon/)
+[Birkar](https://www.dpmms.cam.ac.uk/~cb496/)
+[Mckernan](http://www.math.ucsd.edu/~jmckerna/)
 
-Hodge theory experts:
+IHS 
 
 [Voisin](https://webusers.imj-prg.fr/~claire.voisin/)
+[Huybrechtz](http://www.math.uni-bonn.de/~huybrech/)
+[Debarre](https://webusers.imj-prg.fr/olivier.debarre)
+
+Arithmetic geomter
+
+[Schole](http://www.math.uni-bonn.de/people/scholze/)
