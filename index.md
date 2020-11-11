@@ -26,12 +26,17 @@ fsi15@fudan.deu.cn
 Enumarative geometrers:
 
 [Rahul](https://people.math.ethz.ch/~rahul/)
+[Qinzheng](http://bicmr.pku.edu.cn/~qizheng/#)
+[okounkov](http://www.math.columbia.edu/~okounkov/)
+[Thomas](http://wwwf.imperial.ac.uk/~rpwt/)
+[Joyce](http://people.maths.ox.ac.uk/joyce/)
 
 Birational geometrers:
 
 [Jiang chen](http://homepage.fudan.edu.cn/chenjiang/)
 [Xuchenyang](https://web.math.princeton.edu/~chenyang/)
 [Liu yuchen](https://web.math.princeton.edu/~yuchenl/)
+[Alexeev](http://alpha.math.uga.edu/~valery/)
 
 Hodge theory experts:
 
