@@ -15,8 +15,7 @@ Research Interest: Algebraic Geometry and Related Topics. Currently I work on co
 
 content-disposition: attachment(cohomology_I.pdf)
 
-('Content-Disposition', contentDisposition('cohomology_I.pdf'))
-res.setHeader('Content-Disposition', contentDisposition('cohomology_I.pdf'))
+Here is a [sample](https://github.com/Changfeng1992/SiFei/blob/master/cohomology_I%20(1).pdf)
 
 [2. Compactifications of moduli space of K3 surfaces of degree 6, with Fran\c cois Greer, Radu Laza, Zhiyuan Li, Zhiyu Tian ]
 
@@ -28,7 +27,7 @@ fsi15@fudan.deu.cn
 
 ### Useful Links
 
-Enumarative geometrers:
+Enumarative geometers:
 
 [Rahul](https://people.math.ethz.ch/~rahul/)
 [Qinzheng](http://bicmr.pku.edu.cn/~qizheng/#)
@@ -36,7 +35,7 @@ Enumarative geometrers:
 [Thomas](http://wwwf.imperial.ac.uk/~rpwt/)
 [Joyce](http://people.maths.ox.ac.uk/joyce/)
 
-Birational geometrers:
+Birational geometers:
 
 [Jiangchen](http://homepage.fudan.edu.cn/chenjiang/)
 [Xuchenyang](https://web.math.princeton.edu/~chenyang/)
@@ -52,7 +51,8 @@ IHS
 [Huybrechtz](http://www.math.uni-bonn.de/~huybrech/)
 [Debarre](https://webusers.imj-prg.fr/olivier.debarre)
 [Macri](https://www.imo.universite-paris-saclay.fr/~macri/)
-Arithmetic geomter
+
+Arithmetic geometers
 
 [Scholze](http://www.math.uni-bonn.de/people/scholze/)
 
