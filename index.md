@@ -1,6 +1,6 @@
 ## Welcome to Si Fei's  Homepages
 
-I am fifth year Phd student at SCMS, Fudan University and my adviser is Prof.Chen meng and Prof. [zhiyuan Li]:http://homepage.fudan.edu.cn/zhiyuanli/?winzoom=1.
+I am fifth year Phd student at SCMS, Fudan University and my adviser is Prof.Chen meng and Prof. [zhiyuan Li](http://homepage.fudan.edu.cn/zhiyuanli/?winzoom=1)
 Interest: Algebraic Geometry and Related Topics. Now I work on compactification of moduli space and cohomology (chow ) theory on moduli space.
 
 ### CV:
