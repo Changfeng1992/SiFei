@@ -25,7 +25,11 @@ My reading notes on GIT.
 3. K-moduli of log del pezzo pairs and K3 surfaces, in preparation.
 
 
+### Invited talks and Slide
 
+1. Compatification of moduli spaces of K3 surfaces of degree 6, [East Asian Core Doctoral Forum on Mathematics 2020
+January 14-17, 2020, Kavli IPMU, Tokyo](https://www.ms.u-tokyo.ac.jp/~yasuyuki/eacdfm2020.htm)
+ <a href=" https://changfeng1992.github.io/SiFei/Tyoko_Si.pdf" target="_blank">Slide.</a>
 
 
 ### Seminars
