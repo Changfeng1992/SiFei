@@ -4,23 +4,38 @@ I am sixth year Phd student at [SCMS](http://www.scms.fudan.edu.cn/), Fudan Univ
 
 Research Interest: Algebraic Geometry and Related Topics. Currently I work on compactifications of moduli space and its birational geometry, also  cohomology and cycle theory on moduli space.
 
-### CV:
-
 
 ### Some Personal Notes:
 
+1.<a href=" https://changfeng1992.github.io/SiFei/Rahul's _talk.pdf" target="_blank">Lehn's conjecture.</a>
+Notes of Porf. Pandharipande's distingushed lecture at SCMS, Fall 2018 
+
+2. <a href=" https://changfeng1992.github.io/SiFei/Rahul's _talk.pdf" target="_blank">Lehn's conjecture.</a>
+Notes taken from serval talks during 2018 AG program held at SCMS
+
+3. <a href=" https://changfeng1992.github.io/SiFei/Notes_GIT.pdf" target="_blank">GIT.</a>
+My reading notes on GIT.
 
 ### Papers:
-[1. cohomology of moduli space of cubic fourfolds I]<a href=" https://changfeng1992.github.io/SiFei/cohomology_I.pdf" target="_blank">cohomology.</a>
+1. cohomology of moduli space of cubic fourfolds I<a href=" https://changfeng1992.github.io/SiFei/cohomology_I.pdf" target="_blank">cohomology.</a>
 
-[2. Compactifications of moduli space of K3 surfaces of degree 6, with Fran\c cois Greer, Radu Laza, Zhiyuan Li, Zhiyu Tian ]
+2. Compactifications of moduli space of K3 surfaces of degree 6, with Fran\c cois Greer, Radu Laza, Zhiyuan Li, Zhiyu Tian. in preparation.
 
-[3. K-moduli of log del pezzo pairs and K3 surfaces, in preparation]
+3. K-moduli of log del pezzo pairs and K3 surfaces, in preparation.
 
 
 ### Email
 
 fsi15@fudan.deu.cn
+
+
+### Seminars
+
+1. In Fall 2020, We have a reading seminar on construction of K-moduli space.
+
+
+2. [AG seminar at SCMS](http://www.scms.fudan.edu.cn/Data/List/Fudan-SCMS.html) 
+
 
 ### Useful Links
 
