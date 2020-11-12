@@ -69,4 +69,4 @@ IHS
 Arithmetic geometers
 
 [Scholze](http://www.math.uni-bonn.de/people/scholze/)
-
+[Venkatesh](http://math.stanford.edu/~akshay/)
