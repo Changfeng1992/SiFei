@@ -11,9 +11,7 @@ Research Interest: Algebraic Geometry and Related Topics. Currently I work on co
 
 
 ### Papers:
-[1. cohomology of moduli space of cubic fourfolds I] [Contribution guidelines for this project](docs/cohomology_I.pdf)
-
-<a href=" https://changfeng1992.github.io/SiFei/cohomology_I.pdf" target="_blank">PDF.</a>
+[1. cohomology of moduli space of cubic fourfolds I]<a href=" https://changfeng1992.github.io/SiFei/cohomology_I.pdf" target="_blank">cohomology.</a>
 
 
 [2. Compactifications of moduli space of K3 surfaces of degree 6, with Fran\c cois Greer, Radu Laza, Zhiyuan Li, Zhiyu Tian ]
