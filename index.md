@@ -52,9 +52,9 @@ Enumarative geometers:
 
 Birational geometers:
 
-[Jiangchen](http://homepage.fudan.edu.cn/chenjiang/)
-[Xuchenyang](https://web.math.princeton.edu/~chenyang/)
-[Liu yuchen](https://web.math.princeton.edu/~yuchenl/)
+[Jiangchen](http://homepage.fudan.edu.cn/chenjiang/)\
+[Xuchenyang](https://web.math.princeton.edu/~chenyang/)\
+[Liu yuchen](https://web.math.princeton.edu/~yuchenl/)\
 [Alexeev](http://alpha.math.uga.edu/~valery/)
 [Hacon](http://www.math.utah.edu/~hacon/)
 [Birkar](https://www.dpmms.cam.ac.uk/~cb496/)
