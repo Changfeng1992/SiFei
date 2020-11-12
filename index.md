@@ -19,7 +19,7 @@ My reading notes on GIT.
 ### Papers:
 1. cohomology of moduli space of cubic fourfolds I<a href=" https://changfeng1992.github.io/SiFei/cohomology_I.pdf" target="_blank">cohomology.</a>
 
-2. Compactifications of moduli space of K3 surfaces of degree 6, with Fran\c cois Greer, Radu Laza, Zhiyuan Li, Zhiyu Tian. in preparation.
+2. Compactifications of moduli space of K3 surfaces of degree 6, with Francois Greer, Radu Laza, Zhiyuan Li, Zhiyu Tian. in preparation.
 
 3. K-moduli of log del pezzo pairs and K3 surfaces, in preparation.
 
