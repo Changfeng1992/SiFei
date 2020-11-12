@@ -58,6 +58,7 @@ Birational geometers:
 [Hacon](http://www.math.utah.edu/~hacon/)
 [Birkar](https://www.dpmms.cam.ac.uk/~cb496/)
 [Mckernan](http://www.math.ucsd.edu/~jmckerna/)
+[kollar](https://web.math.princeton.edu/~kollar/)
 
 IHS 
 
@@ -70,3 +71,4 @@ Arithmetic geometers
 
 [Scholze](http://www.math.uni-bonn.de/people/scholze/)
 [Venkatesh](http://math.stanford.edu/~akshay/)
+[ Tsimerman](http://www.math.toronto.edu/~jacobt/)
