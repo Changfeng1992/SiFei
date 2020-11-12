@@ -10,7 +10,7 @@ Research Interest: Algebraic Geometry and Related Topics. Currently I work on co
 1.<a href=" https://changfeng1992.github.io/SiFei/Rahul's _talk.pdf" target="_blank">Lehn's conjecture.</a>
 Notes of Porf. Pandharipande's distingushed lecture at SCMS, Fall 2018 
 
-2. <a href=" https://changfeng1992.github.io/SiFei/Rahul's _talk.pdf" target="_blank">Lehn's conjecture.</a>
+2. <a href=" https://changfeng1992.github.io/SiFei/Rahul's _talk.pdf" target="_blank">2018AG.</a>
 Notes taken from serval talks during 2018 AG program held at SCMS
 
 3. <a href=" https://changfeng1992.github.io/SiFei/Notes_GIT.pdf" target="_blank">GIT.</a>
