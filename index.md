@@ -17,6 +17,7 @@ Notes taken from serval talks during 2018 AG program held at SCMS
 My reading notes on GIT.
 
 ### Papers:
+
 1. cohomology of moduli space of cubic fourfolds I<a href=" https://changfeng1992.github.io/SiFei/cohomology_I.pdf" target="_blank">cohomology.</a>
 
 2. Compactifications of moduli space of K3 surfaces of degree 6, with Francois Greer, Radu Laza, Zhiyuan Li, Zhiyu Tian. in preparation.
