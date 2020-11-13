@@ -67,9 +67,11 @@ IHS
 [Huybrechtz](http://www.math.uni-bonn.de/~huybrech/)
 [Debarre](https://webusers.imj-prg.fr/olivier.debarre)
 [Macri](https://www.imo.universite-paris-saclay.fr/~macri/)
+[Hassett](http://www.math.brown.edu/~bhassett/)
 
 Arithmetic geometers
 
 [Scholze](http://www.math.uni-bonn.de/people/scholze/)
 [Venkatesh](http://math.stanford.edu/~akshay/)
 [ Tsimerman](http://www.math.toronto.edu/~jacobt/)
+[Tschinkel](https://cims.nyu.edu/~tschinke/)
