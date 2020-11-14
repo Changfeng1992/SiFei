@@ -18,7 +18,8 @@ Notes taken from serval talks during 2018 AG program held at SCMS
 3.<a href=" https://changfeng1992.github.io/SiFei/Notes_GIT.pdf" target="_blank">GIT.</a>
 My reading notes on GIT.
 
-4.<a href=" https://changfeng1992.github.io/SiFei/Reading_Notes_on_projective_model_of_K3.pdf.pdf" target="_blank">Notes on Projective model of K3.</a> My reading notes on projective model of K3 surfaces.
+4.<a href=" https://changfeng1992.github.io/SiFei/projective model K3.pdf.pdf" target="_blank">Notes on Projective model of K3.</a> 
+My reading notes on projective model of K3 surfaces.
 
 #### warning: some of the notes are not complete. I will revisit !
 
