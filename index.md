@@ -10,10 +10,10 @@ Research Interest: Algebraic Geometry and Related Topics. Currently I work on co
 1.<a href=" https://changfeng1992.github.io/SiFei/Rahul's _talk.pdf" target="_blank">Lehn's conjecture.</a>
 Notes of Porf. Pandharipande's distingushed lecture at SCMS, Fall 2018 
 
-2. <a href=" https://changfeng1992.github.io/SiFei/Rahul's _talk.pdf" target="_blank">2018AG.</a>
+2.<a href=" https://changfeng1992.github.io/SiFei/Rahul's _talk.pdf" target="_blank">2018AG.</a>
 Notes taken from serval talks during 2018 AG program held at SCMS
 
-3. <a href=" https://changfeng1992.github.io/SiFei/Notes_GIT.pdf" target="_blank">GIT.</a>
+3.<a href=" https://changfeng1992.github.io/SiFei/Notes_GIT.pdf" target="_blank">GIT.</a>
 My reading notes on GIT.
 
 ### Papers:
@@ -27,7 +27,7 @@ My reading notes on GIT.
 
 ### Invited talks and Slide
 
-1. Compatification of moduli spaces of K3 surfaces of degree 6, [East Asian Core Doctoral Forum on Mathematics 2020
+1. Compatifications of moduli spaces of K3 surfaces of degree 6, [East Asian Core Doctoral Forum on Mathematics 2020
 January 14-17, 2020, Kavli IPMU, Tokyo](https://www.ms.u-tokyo.ac.jp/~yasuyuki/eacdfm2020.htm)
  <a href=" https://changfeng1992.github.io/SiFei/Tyoko_Si.pdf" target="_blank">Slide.</a>
 
@@ -45,8 +45,8 @@ January 14-17, 2020, Kavli IPMU, Tokyo](https://www.ms.u-tokyo.ac.jp/~yasuyuki/e
 Enumarative geometers:
 
 [Rahul](https://people.math.ethz.ch/~rahul/)
-[Qinzheng](http://bicmr.pku.edu.cn/~qizheng/#)
-[okounkov](http://www.math.columbia.edu/~okounkov/)
+[Qizheng](http://bicmr.pku.edu.cn/~qizheng/#)
+[Okounkov](http://www.math.columbia.edu/~okounkov/)
 [Thomas](http://wwwf.imperial.ac.uk/~rpwt/)
 [Joyce](http://people.maths.ox.ac.uk/joyce/)
 
@@ -54,12 +54,12 @@ Birational geometers:
 
 [Jiangchen](http://homepage.fudan.edu.cn/chenjiang/)
 [Xuchenyang](https://web.math.princeton.edu/~chenyang/)
-[Liu yuchen](https://web.math.princeton.edu/~yuchenl/)
+[Liuyuchen](https://web.math.princeton.edu/~yuchenl/)
 [Alexeev](http://alpha.math.uga.edu/~valery/)
 [Hacon](http://www.math.utah.edu/~hacon/)
 [Birkar](https://www.dpmms.cam.ac.uk/~cb496/)
 [Mckernan](http://www.math.ucsd.edu/~jmckerna/)
-[kollar](https://web.math.princeton.edu/~kollar/)
+[Kollar](https://web.math.princeton.edu/~kollar/)
 
 IHS 
 
