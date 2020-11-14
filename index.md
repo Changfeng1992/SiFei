@@ -16,6 +16,10 @@ Notes taken from serval talks during 2018 AG program held at SCMS
 3.<a href=" https://changfeng1992.github.io/SiFei/Notes_GIT.pdf" target="_blank">GIT.</a>
 My reading notes on GIT.
 
+4. <a href=" https://changfeng1992.github.io/SiFei/Reading_Notes_on_projective_model_of__K3.pdf.pdf" target="_blank">GIT.</a> My reading notes on projective model of K3 surfaces.
+
+#### warning: some of the notes are not complete. I will revisit !
+
 ### Papers:
 
 1. <a href=" https://changfeng1992.github.io/SiFei/cohomology_I.pdf" target="_blank">cohomology of moduli space of cubic fourfolds I.</a>
@@ -25,7 +29,7 @@ My reading notes on GIT.
 3. K-moduli of log del pezzo pairs and K3 surfaces, in preparation.
 
 
-### Invited talks and Slide
+### Invited talks and Slides
 
 1. Compatifications of moduli spaces of K3 surfaces of degree 6, [East Asian Core Doctoral Forum on Mathematics 2020
 January 14-17, 2020, Kavli IPMU, Tokyo](https://www.ms.u-tokyo.ac.jp/~yasuyuki/eacdfm2020.htm)
