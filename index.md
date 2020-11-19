@@ -41,7 +41,7 @@ January 14-17, 2020, Kavli IPMU, Tokyo](https://www.ms.u-tokyo.ac.jp/~yasuyuki/e
 
 ### Seminars
 
-1. In Fall 2020, We have a reading seminar on construction of K-moduli space.
+1. In Fall 2020, We have a reading seminar on construction of K-moduli space. <a href=" https://changfeng1992.github.io/SiFei/K-moduli seminar.pdf" target="_blank>Here.</a>  is the schedule. 
 
 
 2. [AG seminar at SCMS](http://www.scms.fudan.edu.cn/Data/List/Fudan-SCMS.html) 
