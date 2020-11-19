@@ -68,8 +68,8 @@ Birational and complex geometers:
 [Mckernan](http://www.math.ucsd.edu/~jmckerna/)
 [Kollar](https://web.math.princeton.edu/~kollar/)
 [ChiLi](https://www.math.purdue.edu/~li2285/papers.html)
-IHS 
 
+IHS 
 [Voisin](https://webusers.imj-prg.fr/~claire.voisin/)
 [Huybrechtz](http://www.math.uni-bonn.de/~huybrech/)
 [Debarre](https://webusers.imj-prg.fr/olivier.debarre)
