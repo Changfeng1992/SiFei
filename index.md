@@ -56,6 +56,7 @@ Enumarative geometers:
 [Okounkov](http://www.math.columbia.edu/~okounkov/)
 [Thomas](http://wwwf.imperial.ac.uk/~rpwt/)
 [Joyce](http://people.maths.ox.ac.uk/joyce/)
+[Bridgeland](http://www.tom-bridgeland.staff.shef.ac.uk/)
 
 Birational and complex geometers:
 
