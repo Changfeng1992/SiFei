@@ -61,6 +61,8 @@ Enumarative geometers:
 [Farb](http://www.math.uchicago.edu/~farb/)
 [Bryan](http://www.math.ubc.ca/~jbryan/)
 [Behrend](http://www.math.ubc.ca/~behrend/)
+[Konstevich](http://www.ihes.fr/~maxim/publicationsanglais.html)
+[Gromov](https://www.ihes.fr/~gromov/)
 
 Birational and complex geometers:
 
