@@ -59,6 +59,8 @@ Enumarative geometers:
 [Bridgeland](http://www.tom-bridgeland.staff.shef.ac.uk/)
 [Eskin](http://math.uchicago.edu/~eskin/)
 [Farb](http://www.math.uchicago.edu/~farb/)
+[Bryan](http://www.math.ubc.ca/~jbryan/)
+[Behrend](http://www.math.ubc.ca/~behrend/)
 
 Birational and complex geometers:
 
