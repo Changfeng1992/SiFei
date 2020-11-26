@@ -57,6 +57,8 @@ Enumarative geometers:
 [Thomas](http://wwwf.imperial.ac.uk/~rpwt/)
 [Joyce](http://people.maths.ox.ac.uk/joyce/)
 [Bridgeland](http://www.tom-bridgeland.staff.shef.ac.uk/)
+[Eskin](http://math.uchicago.edu/~eskin/)
+[Farb](http://www.math.uchicago.edu/~farb/)
 
 Birational and complex geometers:
 
@@ -86,3 +88,4 @@ Arithmetic geometers and Representation theorists:
 [Yunzhiwei](http://math.mit.edu/~zyun/)
 [Zhang wei](http://math.mit.edu/~wz2113/)
 [Zhangshouwu](https://web.math.princeton.edu/~shouwu/)
+[deJong](http://math.columbia.edu/~dejong/)
