@@ -5,7 +5,7 @@ Research Interest: Algebraic Geometry and Related Topics. Currently I work on co
 
 My CV is <a href=" https://changfeng1992.github.io/SiFei/CV.pdf" target="_blank">here.</a>.
 
- <a href=" https://changfeng1992.github.io/SiFei/Research statement.pdf" target="_blank">Research Statement.</a>.
+ <a href=" https://changfeng1992.github.io/SiFei/Research statement.pdf" target="_blank">Research Statement</a>.
 
 ##### Email: fsi15@fudan.deu.cn
 
