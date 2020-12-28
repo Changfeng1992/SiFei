@@ -5,6 +5,8 @@ Research Interest: Algebraic Geometry and Related Topics. Currently I work on co
 
 My CV is <a href=" https://changfeng1992.github.io/SiFei/CV.pdf" target="_blank">here.</a>.
 
+ <a href=" https://changfeng1992.github.io/SiFei/Research statement.pdf" target="_blank">Research Statement.</a>.
+
 ##### Email: fsi15@fudan.deu.cn
 
 ### Some Personal Notes:
@@ -25,7 +27,7 @@ My reading notes on projective model of K3 surfaces.
 
 ### Papers:
 
-1. <a href=" https://changfeng1992.github.io/SiFei/cohomology_I.pdf" target="_blank">cohomology of moduli space of cubic fourfolds I.</a>
+1. <a href=" https://changfeng1992.github.io/SiFei/cohomology.pdf" target="_blank">cohomology of moduli space of cubic fourfolds I.</a>
 
 2. Compactifications of moduli space of K3 surfaces of degree 6, with Francois Greer, Radu Laza, Zhiyuan Li, Zhiyu Tian. in preparation.
 
