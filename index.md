@@ -27,12 +27,11 @@ My reading notes on projective model of K3 surfaces.
 
 ### Papers:
 
-1. <a href=" https://changfeng1992.github.io/SiFei/cohomology.pdf" target="_blank">cohomology of moduli space of cubic fourfolds I.</a>
+1. cohomology of moduli space of cubic fourfolds I.[arxiv.org/abs/2103.04282](https://arxiv.org/abs/2103.04282)
 
 2. Compactifications of moduli space of K3 surfaces of degree 6, with Francois Greer, Radu Laza, Zhiyuan Li, Zhiyu Tian. in preparation.
 
 3. K-moduli of log del pezzo pairs and K3 surfaces, in preparation.
-
 
 ### Invited talks and Slides
 
