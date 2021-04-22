@@ -38,7 +38,9 @@ My reading notes on projective model of K3 surfaces.
 1. Compatifications of moduli spaces of K3 surfaces of degree 6, [East Asian Core Doctoral Forum on Mathematics 2020
 January 14-17, 2020, Kavli IPMU, Tokyo](https://www.ms.u-tokyo.ac.jp/~yasuyuki/eacdfm2020.htm)
  <a href=" https://changfeng1992.github.io/SiFei/Tyoko_Si.pdf" target="_blank">Slide.</a>
-
+ 
+ 2. Birational geometry of moduli space of low genus. [When Number Theory meets Algebraic Geometry](http://staff.ustc.edu.cn/~yqliang/files/NTAG-1st.htm)
+Notes of the talk 
 
 ### Seminars
 
