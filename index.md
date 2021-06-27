@@ -52,7 +52,7 @@ January 14-17, 2020, Kavli IPMU, Tokyo](https://www.ms.u-tokyo.ac.jp/~yasuyuki/e
 
 2. [AG seminar at SCMS](http://www.scms.fudan.edu.cn/Data/List/Fudan-SCMS.html) 
 
-3. In 2021.6.28-6.30, we have a [reading goup on curves on K3s](http://homepage.fudan.edu.cn/zhiyuanli/seminars/reading-workshop-curves-on-k3-surfaces/)
+3. In 2021.6.28-6.30, we have a [reading goup on curves on K3s](http://homepage.fudan.edu.cn/zhiyuanli/seminars/reading-workshop-curves-on-k3-surfaces/) at SCMS Room 406.
 
 
 ### Useful Links
