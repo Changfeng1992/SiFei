@@ -76,7 +76,7 @@ Enumarative geometers:
 
 Birational and complex geometers:
 
-[Jiangchen](http://homepage.fudan.edu.cn/chenjiang/)
+[Jiangchen](https://chenjiangfudan.github.io/home/)
 [Xuchenyang](https://web.math.princeton.edu/~chenyang/)
 [Liuyuchen](https://web.math.princeton.edu/~yuchenl/)
 [Alexeev](http://alpha.math.uga.edu/~valery/)
