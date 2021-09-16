@@ -78,7 +78,7 @@ Birational and complex geometers:
 
 [Jiangchen](https://chenjiangfudan.github.io/home/)
 [Xuchenyang](https://web.math.princeton.edu/~chenyang/)
-[Liuyuchen](https://web.math.princeton.edu/~yuchenl/)
+[Liuyuchen](https://faculty.wcas.northwestern.edu/yuchenl/)
 [Alexeev](http://alpha.math.uga.edu/~valery/)
 [Hacon](http://www.math.utah.edu/~hacon/)
 [Birkar](https://www.dpmms.cam.ac.uk/~cb496/)
