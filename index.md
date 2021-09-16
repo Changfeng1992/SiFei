@@ -1,7 +1,7 @@
 ### About me:
-I am a sixth year Phd student at [SCMS](http://www.scms.fudan.edu.cn/), Fudan University under supervision Prof. [Meng Chen](http://homepage.fudan.edu.cn/mchen/) and Prof. [Zhiyuan Li](http://homepage.fudan.edu.cn/zhiyuanli/?winzoom=1). From fall 2021, I will be a posdoc at [BICMR](https://bicmr.pku.edu.cn/).
+Now I am a posdoc at [BICMR](https://bicmr.pku.edu.cn/). Before this, I am was Phd student at [SCMS](http://www.scms.fudan.edu.cn/), Fudan University under supervision Prof. [Meng Chen](http://homepage.fudan.edu.cn/mchen/) and Prof. [Zhiyuan Li](http://homepage.fudan.edu.cn/zhiyuanli/?winzoom=1). 
 
-Research Interest: Algebraic Geometry and related Topics. Currently I work on compactifications of moduli space and its birational geometry, also  cohomology and cycle theory on moduli spaces.
+Research Interest: Algebraic Geometry and related Topics. Currently I work on compactifications of moduli spaces and their birational geometry, also  cohomology and cycle theory on moduli spaces.
 
 My CV is <a href=" https://changfeng1992.github.io/SiFei/CV.pdf" target="_blank">here</a>.
 
@@ -43,6 +43,8 @@ January 14-17, 2020, Kavli IPMU, Tokyo](https://www.ms.u-tokyo.ac.jp/~yasuyuki/e
  <a href=" https://changfeng1992.github.io/SiFei/Tyoko_Si.pdf" target="_blank">Slide.</a>
  
  2. Birational geometry of moduli space of low genus. [When Number Theory meets Algebraic Geometry, USTC, HeFei, 2021.4.19-4.23](http://staff.ustc.edu.cn/~yqliang/files/NTAG-1st.htm)  <a href=" https://changfeng1992.github.io/SiFei/talk_at_AG_forum (1).pdf" target="_blank">Notes of the talk .</a>
+ 
+ 3. Cohomology of compact moduli spaces of cubic 4-folds. 2021.9.15, Algebraic geometry seminar at CAS. 
 
 
 ### Seminars
