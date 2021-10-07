@@ -9,7 +9,9 @@ My CV is <a href=" https://changfeng1992.github.io/SiFei/CV.pdf" target="_blank"
 
 ##### Email: fsi15@fudan.deu.cn
 
-curl https://profile-counter.glitch.me/{https://changfeng1992.github.io/SiFei/}/count.svg
+# 🚀 GitHub Profile Views Counter [<img alt="Image of my-profile-view-counter" src="https://github.com/Changfeng1992/SiFei/my-profile-view-counter/blob/master/graph/372372861/small/week.png" height="20">](https://github.com/Changfeng1992/SiFei/my-profile-view-counter/blob/master/readme/372372861/week.md)
+
+[![Image of my-profile-view-counter](https://github.com/Changfeng1992/SiFei/my-profile-view-counter/blob/master/svg/372372861/badge.svg)](https://github.com/Changfeng1992/SiFei/my-profile-view-counter/blob/master/readme/372372861/week.md)
 
 ### Some Personal Notes:
 
