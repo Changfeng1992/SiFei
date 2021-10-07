@@ -9,7 +9,7 @@ My CV is <a href=" https://changfeng1992.github.io/SiFei/CV.pdf" target="_blank"
 
 ##### Email: fsi15@fudan.deu.cn
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{https://changfeng1992.github.io/SiFei/}/count.svg)
 
 ### Some Personal Notes:
 
