@@ -9,8 +9,7 @@ My CV is <a href=" https://changfeng1992.github.io/SiFei/CV.pdf" target="_blank"
 
 ##### Email: fsi15@fudan.deu.cn
 
-
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=ruanyf.weekly.issue.662)
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 ### Some Personal Notes:
 
