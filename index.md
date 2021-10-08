@@ -9,9 +9,6 @@ My CV is <a href=" https://changfeng1992.github.io/SiFei/CV.pdf" target="_blank"
 
 ##### Email: fsi15@fudan.deu.cn
 
-# 🚀 GitHub Profile Views Counter [<img alt="Image of my-profile-view-counter" src="https://github.com/Changfeng1992/SiFei/my-profile-view-counter/blob/master/graph/372372861/small/week.png" height="20">](https://github.com/Changfeng1992/SiFei/my-profile-view-counter/blob/master/readme/372372861/week.md)
-
-[![Image of my-profile-view-counter](https://github.com/Changfeng1992/SiFei/my-profile-view-counter/blob/master/svg/372372861/badge.svg)](https://github.com/Changfeng1992/SiFei/my-profile-view-counter/blob/master/readme/372372861/week.md)
 
 ### Some Personal Notes:
 
@@ -104,3 +101,4 @@ Arithmetic geometers and Representation theorists:
 [Zhang wei](http://math.mit.edu/~wz2113/)
 [Zhangshouwu](https://web.math.princeton.edu/~shouwu/)
 [deJong](http://math.columbia.edu/~dejong/)
+[Esnault](http://page.mi.fu-berlin.de/esnault/)
