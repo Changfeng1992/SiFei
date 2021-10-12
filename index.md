@@ -7,7 +7,7 @@ My CV is <a href=" https://changfeng1992.github.io/SiFei/CV.pdf" target="_blank"
 
  <a href=" https://changfeng1992.github.io/SiFei/Research statement.pdf" target="_blank">Research Statement</a>.
 
-##### Email: fsi15@fudan.deu.cn
+##### Email: sifei@bicmr.pku.edu.cn
 
 
 ### Some Personal Notes:
