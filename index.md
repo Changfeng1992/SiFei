@@ -79,8 +79,8 @@ Enumarative geometers:
 Birational and complex geometers:
 
 [Jiangchen](https://chenjiangfudan.github.io/home/)
-[Xuchenyang](https://web.math.princeton.edu/~chenyang/)
-[Liuyuchen](https://faculty.wcas.northwestern.edu/yuchenl/)
+[Xu](https://web.math.princeton.edu/~chenyang/)
+[Yuchen](https://faculty.wcas.northwestern.edu/yuchenl/)
 [Alexeev](http://alpha.math.uga.edu/~valery/)
 [Hacon](http://www.math.utah.edu/~hacon/)
 [Birkar](https://www.dpmms.cam.ac.uk/~cb496/)
@@ -88,6 +88,7 @@ Birational and complex geometers:
 [Kollar](https://web.math.princeton.edu/~kollar/)
 [ChiLi](https://www.math.purdue.edu/~li2285/papers.html)
 [Donaldson](http://wwwf.imperial.ac.uk/~skdona/)
+[Demailly](https://www-fourier.ujf-grenoble.fr/~demailly/)
 
 IHS 
 [Voisin](https://webusers.imj-prg.fr/~claire.voisin/)
