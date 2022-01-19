@@ -109,5 +109,5 @@ Arithmetic geometers and Representation theorists:
 [Zhangshouwu](https://web.math.princeton.edu/~shouwu/)
 [deJong](http://math.columbia.edu/~dejong/)
 [Esnault](http://page.mi.fu-berlin.de/esnault/)
-[Beuinier](https://www.mathematik.tu-darmstadt.de/fb/personal/details/jan_hendrik_bruinier.en.jsp)
+[Bruinier](https://www.mathematik.tu-darmstadt.de/fb/personal/details/jan_hendrik_bruinier.en.jsp)
 [Lan](https://www-users.cse.umn.edu/~kwlan/)
