@@ -62,7 +62,7 @@ January 14-17, 2020, Kavli IPMU, Tokyo](https://www.ms.u-tokyo.ac.jp/~yasuyuki/e
 
 3. In 2021.6.28-6.30, we have a [reading goup on curves on K3s](http://homepage.fudan.edu.cn/zhiyuanli/seminars/reading-workshop-curves-on-k3-surfaces/) at SCMS Room 406.
 
-4. In spring of 2022, we have a reading seminar on Hyperhaker manifolds at Quanzhai, BICMR. The schedule is  <a href=" https://changfeng1992.github.io/SiFei/Seminar_on_BV_conjecture_and_the_related__2022_Spring.pdf" target="_blank">here</a>.
+4. In spring of 2022, we have a reading seminar on Hyperhaker manifolds at Quanzhai 29, BICMR. The schedule is  <a href=" https://changfeng1992.github.io/SiFei/Seminar_on_BV_conjecture_and_the_related__2022_Spring.pdf" target="_blank">here</a>.
 
 
 ### Useful Links
