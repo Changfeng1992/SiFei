@@ -64,6 +64,9 @@ January 14-17, 2020, Kavli IPMU, Tokyo](https://www.ms.u-tokyo.ac.jp/~yasuyuki/e
 
 4. In spring of 2022, we have a reading seminar on Hyperhaker manifolds at Quanzhai 29, BICMR. The schedule is  <a href=" https://changfeng1992.github.io/SiFei/Seminar_on_BV_conjecture_and_the_related__2022_Spring.pdf" target="_blank">here</a>.
 
+### Teaching 
+
+In 2022.9, I give a mini-course on K3 surface at [BICMR](https://bicmr.pku.edu.cn/content/show/70-2771.html).
 
 ### Useful Links
 
