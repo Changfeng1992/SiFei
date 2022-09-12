@@ -66,7 +66,7 @@ January 14-17, 2020, Kavli IPMU, Tokyo](https://www.ms.u-tokyo.ac.jp/~yasuyuki/e
 
 ### Teaching 
 
-In 2022.9, I give a mini-course on K3 surface at [BICMR](https://bicmr.pku.edu.cn/content/show/70-2771.html). Noetes for the course will be posted later. 
+In 2022.9, I give a mini-course on K3 surface at [BICMR](https://bicmr.pku.edu.cn/content/show/70-2771.html). Noetes for the course will be posted later
 
 ### Useful Links
 
