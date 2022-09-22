@@ -3,7 +3,7 @@
 
 
 ### About me:
-Now I am a posdoc at [BICMR](https://bicmr.pku.edu.cn/). Before this, I was Phd student at [SCMS](http://www.scms.fudan.edu.cn/), Fudan University under supervision Prof. [Meng Chen]([http://homepage.fudan.edu.cn/mchen/](https://faculty.fudan.edu.cn/chenmeng/zh_CN/index.htm)) and Prof. [Zhiyuan Li]([http://homepage.fudan.edu.cn/zhiyuanli/?winzoom=1](https://faculty.fudan.edu.cn/zhiyuanli/zh_CN/index.htm)). 
+Now I am a posdoc at [BICMR](https://bicmr.pku.edu.cn/). Before this, I was Phd student at [SCMS](http://www.scms.fudan.edu.cn/), Fudan University under supervision Prof. [Meng Chen]([http://homepage.fudan.edu.cn/mchen/](https://faculty.fudan.edu.cn/chenmeng/zh_CN/index.htm) and Prof. [Zhiyuan Li]([http://homepage.fudan.edu.cn/zhiyuanli/?winzoom=1](https://faculty.fudan.edu.cn/zhiyuanli/zh_CN/index.htm). 
 
 Research Interest: Algebraic Geometry and related Topics. Currently I work on explicit compactifications of moduli spaces and their birational geometry, also  cohomology and cycle theory on moduli spaces.
 
