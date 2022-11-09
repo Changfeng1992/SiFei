@@ -99,7 +99,7 @@ Birational and complex geometers:
 [Birkar](https://www.dpmms.cam.ac.uk/~cb496/)
 [Mckernan](http://www.math.ucsd.edu/~jmckerna/)
 [Kollar](https://web.math.princeton.edu/~kollar/)
-[ChiLi](https://www.math.purdue.edu/~li2285/papers.html)
+[ChiLi](https://sites.math.rutgers.edu/~cl1412/)
 [Donaldson](http://wwwf.imperial.ac.uk/~skdona/)
 [Demailly](https://www-fourier.ujf-grenoble.fr/~demailly/)
 
@@ -115,7 +115,7 @@ Arithmetic geometers and Representation theorists:
 [Venkatesh](http://math.stanford.edu/~akshay/)
 [ Tsimerman](http://www.math.toronto.edu/~jacobt/)
 [Tschinkel](https://cims.nyu.edu/~tschinke/)
-[Yunzhiwei](http://math.mit.edu/~zyun/)
+[Yun](http://math.mit.edu/~zyun/)
 [Zhang wei](http://math.mit.edu/~wz2113/)
 [Zhangshouwu](https://web.math.princeton.edu/~shouwu/)
 [deJong](http://math.columbia.edu/~dejong/)
