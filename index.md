@@ -33,7 +33,7 @@ My reading notes on projective model of K3 surfaces.
 
 ### Papers:
 
-1. cohomology of moduli space of cubic fourfolds I.(https://link.springer.com/article/10.1007/s10114-022-1042-5)
+1. cohomology of moduli space of cubic fourfolds I. [Acta Mathematica Sinica, English Series (2022)](https://link.springer.com/article/10.1007/s10114-022-1042-5)
 
 2. Compactifications of moduli space of K3 surfaces of degree 6, with Francois Greer, Radu Laza, Zhiyuan Li, Zhiyu Tian. in preparation.
 
