@@ -120,7 +120,7 @@ IHS
 
 Arithmetic geometers and Representation theorists:
 [Scholze](http://www.math.uni-bonn.de/people/scholze/)
-[Venkatesh](http://math.stanford.edu/~akshay/)
+[Venkatesh](https://www.math.ias.edu/~akshay/)
 [ Tsimerman](http://www.math.toronto.edu/~jacobt/)
 [Tschinkel](https://cims.nyu.edu/~tschinke/)
 [Yun](http://math.mit.edu/~zyun/)
