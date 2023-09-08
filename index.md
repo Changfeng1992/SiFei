@@ -83,10 +83,9 @@ walls on  <a href=" https://changfeng1992.github.io/SiFei/wall test - (z,u) - Bl
 
 ### Useful Links
 
-
 [arxiv.AG](https://arxiv.org/list/math.AG/recent)
-
-
+[arxiv.AG.current month](https://arxiv.org/list/math.AG/current)
+[arxiv.new](https://arxiv.org/list/math.AG/new)
 
 
 Enumarative geometers:
