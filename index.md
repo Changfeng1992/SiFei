@@ -48,8 +48,9 @@ January 14-17, 2020, Kavli IPMU, Tokyo](https://www.ms.u-tokyo.ac.jp/~yasuyuki/e
  2. Birational geometry of moduli space of low genus. [When Number Theory meets Algebraic Geometry, USTC, HeFei, 2021.4.19-4.23](http://staff.ustc.edu.cn/~yqliang/files/NTAG-1st.htm)  <a href=" https://changfeng1992.github.io/SiFei/talk_at_AG_forum (1).pdf" target="_blank">Notes of the talk .</a>
  
  3. Cohomology of compact moduli spaces of cubic 4-folds. 2021.9.15, Algebraic geometry seminar at CAS. 
- 
  4. Birational geometry of moduli spaces of K3 surfaces. 2021.12.31,  Postdoc Seminar at BICMR.
+ 5. K-moduli spaces of del pezzo pairs. 2023.4.26, Algebraic geometry seminar at Beijing normal university.
+ 6. K-moduli spaces of del pezzo pairs. 2023.6.1 Online Nottingham algebraic geometry seminar.
 
 
 ### Seminars
