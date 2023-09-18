@@ -82,7 +82,10 @@ Python code for wall crossings of K-moduli:
 walls on  <a href=" https://changfeng1992.github.io/SiFei/wall test - (z,u) - F1.ipynb" target="_blank">F1</a>,
 walls on  <a href=" https://changfeng1992.github.io/SiFei/wall test - (z,u) - Bl P(1,1,14).ipynb" target="_blank">BlP(1,1,4)</a>
 
-Sage code on computation of modular forms on locally symmetry variety: 
+Sage code on computation of modular forms on locally symmetry variety by Haoyu Wu: <a href=" https://changfeng1992.github.io/SiFei/Sage notebook for Hodge relations.pdf" target="_blank">Modular form.</a>  
+
+ A Python code checking GIT stability on (3,2) complete intersection in P^3 by Haoyu Wu: <a href=" https://changfeng1992.github.io/SiFei/wall test - (z,u) - F1.ipynb" target="_blank">F1</a>
+
 
 ### Useful Links
 
