@@ -3,9 +3,9 @@
 
 
 ### About me:
-Now I am a posdoc at [BICMR](https://bicmr.pku.edu.cn/). Before this, I was Phd student at [SCMS](http://www.scms.fudan.edu.cn/), Fudan University under supervision Prof. [Meng Chen](https://faculty.fudan.edu.cn/chenmeng/zh_CN/index.htm) and Prof. [Zhiyuan Li](https://faculty.fudan.edu.cn/zhiyuanli/zh_CN/index.htm). 
+Now I am a posdoc at [BICMR](https://bicmr.pku.edu.cn/). Before I was a Phd student at [SCMS](http://www.scms.fudan.edu.cn/), Fudan University under supervision Prof. [Meng Chen](https://faculty.fudan.edu.cn/chenmeng/zh_CN/index.htm) and Prof. [Zhiyuan Li](https://faculty.fudan.edu.cn/zhiyuanli/zh_CN/index.htm). 
 
-Research Interest: Algebraic Geometry and related Topics. Currently I work on explicit compactifications of moduli spaces and their birational geometry, also  cohomology and cycle theory on moduli spaces.
+Research Interest: Algebraic Geometry and related Topics. Currently I work on some explicit compactifications of moduli spaces and their birational geometry, also  cohomology and cycle theory on these  moduli spaces.
 
 My CV is <a href=" https://changfeng1992.github.io/SiFei/CV.pdf" target="_blank">here</a>.
 
@@ -33,7 +33,7 @@ My reading notes on projective model of K3 surfaces.
 
 ### Papers:
 
-1. cohomology of moduli space of cubic fourfolds I. [Acta Mathematica Sinica, English Series (2022)](https://link.springer.com/article/10.1007/s10114-022-1042-5)
+1. Cohomology of moduli space of cubic fourfolds I. [Acta Mathematica Sinica, English Series (2022)](https://link.springer.com/article/10.1007/s10114-022-1042-5)
 
 2. Compactifications of moduli space of K3 surfaces of degree 6, with Francois Greer, Radu Laza, Zhiyuan Li, Zhiyu Tian. in preparation.
 
@@ -44,7 +44,7 @@ My reading notes on projective model of K3 surfaces.
 1. Compatifications of moduli spaces of K3 surfaces of degree 6, [East Asian Core Doctoral Forum on Mathematics 2020
 January 14-17, 2020, Kavli IPMU, Tokyo](https://www.ms.u-tokyo.ac.jp/~yasuyuki/eacdfm2020.htm)
  <a href=" https://changfeng1992.github.io/SiFei/Tyoko_Si.pdf" target="_blank">Slide.</a>
- 2. Birational geometry of moduli space of low genus. [When Number Theory meets Algebraic Geometry, USTC, HeFei, 2021.4.19-4.23](http://staff.ustc.edu.cn/~yqliang/files/NTAG-1st.htm)  <a href=" https://changfeng1992.github.io/SiFei/talk_at_AG_forum (1).pdf" target="_blank">Notes of the talk .</a>
+ 2. Birational geometry of moduli space of low genus K3 surfaces. [When Number Theory meets Algebraic Geometry, USTC, HeFei, 2021.4.19-4.23](http://staff.ustc.edu.cn/~yqliang/files/NTAG-1st.htm)  <a href=" https://changfeng1992.github.io/SiFei/talk_at_AG_forum (1).pdf" target="_blank">Notes of the talk .</a>
  3. Cohomology of compact moduli spaces of cubic 4-folds. 2021.9.15, Algebraic geometry seminar at CAS. 
  4. Birational geometry of moduli spaces of K3 surfaces. 2021.12.31,  Postdoc Seminar at BICMR.
  5. K-moduli spaces of del pezzo pairs. 2023.4.26, Algebraic geometry seminar at Beijing normal university.
@@ -80,9 +80,9 @@ Python code for wall crossings of K-moduli:
 walls on  <a href=" https://changfeng1992.github.io/SiFei/wall test - (z,u) - F1.ipynb" target="_blank">F1</a>,
 walls on  <a href=" https://changfeng1992.github.io/SiFei/wall test - (z,u) - Bl P(1,1,14).ipynb" target="_blank">BlP(1,1,4)</a>
 
-Sage code on computation of modular forms on locally symmetry variety by Haoyu Wu: <a href=" https://changfeng1992.github.io/SiFei/Sage notebook for Hodge relations.pdf" target="_blank">Modular form.</a>  
+Sage code on computations of modular forms on locally symmetry varieties by Haoyu Wu: <a href=" https://changfeng1992.github.io/SiFei/Sage notebook for Hodge relations.pdf" target="_blank">Modular form.</a>  
 
- A Python code checking GIT stability on (3,2) complete intersection in P^3 by Haoyu Wu: <a href=" https://changfeng1992.github.io/SiFei/GIT (3,2) pair in P^3.py" target="_blank">GIT(3,2)</a>
+ A Python code checking GIT stability on (3,2)-complete intersections in P^3 by Haoyu Wu: <a href=" https://changfeng1992.github.io/SiFei/GIT (3,2) pair in P^3.py" target="_blank">GIT(3,2)</a>
 
 
 ### Useful Links
@@ -92,7 +92,7 @@ Sage code on computation of modular forms on locally symmetry variety by Haoyu W
 [arxiv.new](https://arxiv.org/list/math.AG/new)
 
 
-Enumarative geometers:
+Enumerative geometers:
 
 [Rahul](https://people.math.ethz.ch/~rahul/)
 [Qizheng](http://bicmr.pku.edu.cn/~qizheng/#)
