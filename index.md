@@ -38,6 +38,7 @@ My reading notes on projective model of K3 surfaces.
 2. Compactifications of moduli space of K3 surfaces of degree 6, with Francois Greer, Radu Laza, Zhiyuan Li, Zhiyu Tian. in preparation.
 
 3. [K-moduli of log del pezzo pairs](https://arxiv.org/abs/2303.05651), with Long Pan and Hauyu Wu.
+4. [Birational geometry of moduli space of del Pezzo pairs](https://arxiv.org/abs/2309.10467), with Long Pan and Hauyu Wu.
 
 ### Invited talks and Slides
 
