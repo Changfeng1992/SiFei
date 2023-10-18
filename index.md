@@ -48,6 +48,7 @@ January 14-17, 2020, Kavli IPMU, Tokyo](https://www.ms.u-tokyo.ac.jp/~yasuyuki/e
  4. Birational geometry of moduli spaces of K3 surfaces. 2021.12.31,  Postdoc Seminar at BICMR.
  5. K-moduli spaces of del pezzo pairs. 2023.4.26, Algebraic geometry seminar at Beijing normal university.
  6. K-moduli spaces of del pezzo pairs. 2023.6.1 Online Nottingham algebraic geometry seminar.
+ 7. Birational Geometry of Moduli Spaces of Del Pezzo Surface Pairs, 2023.10.17 AG seminar, MCM.
 
 
 ### Seminars
