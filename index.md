@@ -49,6 +49,7 @@ January 14-17, 2020, Kavli IPMU, Tokyo](https://www.ms.u-tokyo.ac.jp/~yasuyuki/e
  5. K-moduli spaces of del pezzo pairs. 2023.4.26, Algebraic geometry seminar at Beijing normal university.
  6. K-moduli spaces of del pezzo pairs. 2023.6.1 Online Nottingham algebraic geometry seminar.
  7. Birational Geometry of Moduli Spaces of Del Pezzo Surface Pairs, 2023.10.17 AG seminar, MCM.
+ 8. K-moduli spaces of del pezzo pairs. 2023.11.23, AG seminar, MSRC, CQUT.
 
 
 ### Seminars
