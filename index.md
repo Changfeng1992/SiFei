@@ -58,15 +58,15 @@ January 14-17, 2020, Kavli IPMU, Tokyo](https://www.ms.u-tokyo.ac.jp/~yasuyuki/e
 1. In Fall 2020, We have a reading seminar on the construction of K-moduli spaces. <a href=" https://changfeng1992.github.io/SiFei/K-moduli seminar.pdf" target="_blank">Here</a>  is the schedule. 
 
 
-2. [AG seminar at SCMS](http://www.scms.fudan.edu.cn/Data/List/Fudan-SCMS.html) 
+2. In 2021.6.28-6.30, we have a [reading goup on curves on K3s](http://homepage.fudan.edu.cn/zhiyuanli/seminars/reading-workshop-curves-on-k3-surfaces/) at SCMS Room 406.
 
-3. In 2021.6.28-6.30, we have a [reading goup on curves on K3s](http://homepage.fudan.edu.cn/zhiyuanli/seminars/reading-workshop-curves-on-k3-surfaces/) at SCMS Room 406.
+3. In spring of 2022, we have a reading seminar on Hyperhaker manifolds at Quanzhai 29, BICMR. The schedule is  <a href=" https://changfeng1992.github.io/SiFei/Seminar_on_BV_conjecture_and_the_related__2022_Spring.pdf" target="_blank">here</a>.
 
-4. In spring of 2022, we have a reading seminar on Hyperhaker manifolds at Quanzhai 29, BICMR. The schedule is  <a href=" https://changfeng1992.github.io/SiFei/Seminar_on_BV_conjecture_and_the_related__2022_Spring.pdf" target="_blank">here</a>.
-
-5.  In  spring of 2023, we have a reading seminar on hyperholomophic sheaves on Wednesday at room 77201, BICMR and  <a href=" https://changfeng1992.github.io/SiFei/Reading_seminar_on_moduli_of_sheaves_of_HK_2023_Spring.pdf" target="_blank">here</a> is the schedule.
-6.  From April , we have a seminar on K-moduli theory at BICMR, Quan29, each Friday afternoon.   A related [birational geometry reading seminar](https://xw-jiang.github.io/) in Tsinghua.
-7.  From october, we have a reading seminar on moduli spaces of boundary polarised <a href=" https://changfeng1992.github.io/SiFei/seminar CY.pdf" target="_blank">CY</a>. 
+4.  In  spring of 2023, we have a reading seminar on hyperholomophic sheaves on Wednesday at room 77201, BICMR and  <a href=" https://changfeng1992.github.io/SiFei/Reading_seminar_on_moduli_of_sheaves_of_HK_2023_Spring.pdf" target="_blank">here</a> is the schedule.
+   
+5.  From April , we have a seminar on K-moduli theory at BICMR, Quan29, each Friday afternoon.   A related [birational geometry reading seminar](https://xw-jiang.github.io/) in Tsinghua.
+  
+6.  From october, we have a reading seminar on moduli spaces of boundary polarised <a href=" https://changfeng1992.github.io/SiFei/seminar CY.pdf" target="_blank">CY</a>. 
 
 ### Teaching 
 
@@ -94,7 +94,7 @@ Sage code on computations of modular forms on locally symmetry varieties by Haoy
 [AG.current month](https://arxiv.org/list/math.AG/current)
 [AG.new](https://arxiv.org/list/math.AG/new)
 [Mathscinet](https://mathscinet.ams.org/mathscinet/2006/mathscinet)
-
+[Mathariv](https://www.arxiv.org/archive/math)
 
 Enumerative geometers:
 
