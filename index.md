@@ -67,7 +67,8 @@ January 14-17, 2020, Kavli IPMU, Tokyo](https://www.ms.u-tokyo.ac.jp/~yasuyuki/e
 5.  From April , we have a seminar on K-moduli theory at BICMR, Quan29, each Friday afternoon.   A related [birational geometry reading seminar](https://xw-jiang.github.io/) in Tsinghua.
   
 6.  From october, we have a reading seminar on moduli spaces of boundary polarised <a href=" https://changfeng1992.github.io/SiFei/seminar CY.pdf" target="_blank">CY</a>.
-7.  In the spring, we have a online reading seminar on cohomology of moduli spaces of sheaves on surface.
+
+7.  In the spring of 2024, we have a <a href=" https://changfeng1992.github.io/SiFei/Reading_seminars.pdf" target="_blank"> online reading seminar </a>   on cohomology of moduli spaces of sheaves on surface.  
 
 ### Teaching 
 
