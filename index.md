@@ -38,7 +38,7 @@ My reading notes on projective model of K3 surfaces.
 3. [K-moduli of log del pezzo pairs](https://arxiv.org/abs/2303.05651), with Long Pan and Hauyu Wu.
 4. [Birational geometry of moduli space of del Pezzo pairs](https://arxiv.org/abs/2309.10467), with Long Pan and Hauyu Wu.
 5. [Chow ring of moduli spaces of quasi-polarised K3 surfaces in lower genus](https://arxiv.org/abs/2401.12580)
-6. [Asymptotic Behaviors of Moduli of One-dimensional Sheaves on Surfaces](https://arxiv.org/abs/2406.11512)
+6. [Asymptotic Behaviors of Moduli of One-dimensional Sheaves on Surfaces](https://arxiv.org/abs/2406.11512), with Feinuo Zhang.
 
 ### Invited talks and Slides
 
