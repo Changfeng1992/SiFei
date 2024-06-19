@@ -38,6 +38,7 @@ My reading notes on projective model of K3 surfaces.
 3. [K-moduli of log del pezzo pairs](https://arxiv.org/abs/2303.05651), with Long Pan and Hauyu Wu.
 4. [Birational geometry of moduli space of del Pezzo pairs](https://arxiv.org/abs/2309.10467), with Long Pan and Hauyu Wu.
 5. [Chow ring of moduli spaces of quasi-polarised K3 surfaces in lower genus](https://arxiv.org/abs/2401.12580)
+6. [Asymptotic Behaviors of Moduli of One-dimensional Sheaves on Surfaces](https://arxiv.org/abs/2406.11512)
 
 ### Invited talks and Slides
 
@@ -52,6 +53,7 @@ January 14-17, 2020, Kavli IPMU, Tokyo](https://www.ms.u-tokyo.ac.jp/~yasuyuki/e
  7. Birational Geometry of Moduli Spaces of Del Pezzo Surface Pairs, 2023.10.17 AG seminar, MCM.
  8. K-moduli spaces of del pezzo pairs. 2023.11.24, AG seminar, MSRC, CQUT. 
   <a href=" https://changfeng1992.github.io/SiFei/Beamer K_moduli.pdf" target="_blank">Slide.</a>
+ 9. Some explicit K-moduli spaces I, II. 2024.4.29, 4.30. ChongQing university.
 
 
 ### Seminars
@@ -86,7 +88,7 @@ Python code for wall crossings of K-moduli:
 walls on  <a href=" https://changfeng1992.github.io/SiFei/wall test - (z,u) - F1.ipynb" target="_blank">F1</a>,
 walls on  <a href=" https://changfeng1992.github.io/SiFei/wall test - (z,u) - Bl P(1,1,14).ipynb" target="_blank">BlP(1,1,4)</a>
 
-Sage code on computations of modular forms on locally symmetry varieties by Haoyu Wu: <a href=" https://changfeng1992.github.io/SiFei/Sage notebook for Hodge relations.pdf" target="_blank">Modular form.</a>  
+Sage code on computations of modular forms on locally symmetric varieties by Haoyu Wu: <a href=" https://changfeng1992.github.io/SiFei/Sage notebook for Hodge relations.pdf" target="_blank">Modular form.</a>  
 
  A Python code checking GIT stability on (3,2)-complete intersections in P^3 by Haoyu Wu: <a href=" https://changfeng1992.github.io/SiFei/GIT (3,2) pair in P^3.py" target="_blank">GIT(3,2)</a>
 
