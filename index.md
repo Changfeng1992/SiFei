@@ -53,7 +53,8 @@ January 14-17, 2020, Kavli IPMU, Tokyo](https://www.ms.u-tokyo.ac.jp/~yasuyuki/e
  7. Birational Geometry of Moduli Spaces of Del Pezzo Surface Pairs, 2023.10.17 AG seminar, MCM.
  8. K-moduli spaces of del pezzo pairs. 2023.11.24, AG seminar, MSRC, CQUT. 
   <a href=" https://changfeng1992.github.io/SiFei/Beamer K_moduli.pdf" target="_blank">Slide.</a>
- 9. Some explicit K-moduli spaces I, II. 2024.4.29, 4.30. ChongQing university.
+ 9.  Cohomology of moduli spaces of cubic 4-folds(https://ymsc-moduli.github.io/activities-seminars.html), Seminar on "Moduli Spaces and Related Topics", YMSC
+ 10. Some explicit K-moduli spaces I, II. 2024.4.29, 4.30. ChongQing university.
 
 
 ### Seminars
