@@ -37,6 +37,7 @@ My reading notes on projective model of K3 surfaces.
 4. [Birational geometry of moduli space of del Pezzo pairs](https://arxiv.org/abs/2309.10467), with Long Pan and Haoyu Wu.
 5. [Chow ring of moduli spaces of quasi-polarised K3 surfaces in lower genus](https://arxiv.org/abs/2401.12580)
 6. [Asymptotic Behaviors of Moduli of One-dimensional Sheaves on Surfaces](https://arxiv.org/abs/2406.11512), with Feinuo Zhang.
+7. [Cohomological stabilization, perverse filtrations, and refined BPS invariants for del Pezzo surfaces]
 
 ### Invited talks and Slides
 
