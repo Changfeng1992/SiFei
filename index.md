@@ -29,16 +29,25 @@ My reading notes on projective model of K3 surfaces.
 
 #### warning: some of the notes are not complete. I will revisit !
 
-### Papers:
+#### Papers:
 
-1. Cohomology of moduli space of cubic fourfolds I. [Acta Mathematica Sinica, English Series (2022)](https://link.springer.com/article/10.1007/s10114-022-1042-5)
+Geometry of moduli spaces:
+
 2. Compactifications of moduli space of K3 surfaces of degree 6, with Francois Greer, Radu Laza, Zhiyuan Li, Zhiyu Tian. in preparation (draft available).
 3. [K-moduli of log del pezzo pairs](https://arxiv.org/abs/2303.05651), with Long Pan and Haoyu Wu.
 4. [Birational geometry of moduli space of del Pezzo pairs](https://arxiv.org/abs/2309.10467), with Long Pan and Haoyu Wu.
-5. [Chow ring of moduli spaces of quasi-polarised K3 surfaces in lower genus](https://arxiv.org/abs/2401.12580)
+
+Cohomological apsect of moduli spaces:
+
+1. Cohomology of moduli space of cubic fourfolds I. [Acta Mathematica Sinica, English Series (2022)](https://link.springer.com/article/10.1007/s10114-022-1042-5)
 6. [Asymptotic Behaviors of Moduli of One-dimensional Sheaves on Surfaces](https://arxiv.org/abs/2406.11512), with Feinuo Zhang. (This paper will splits two parts, the result on Betti number stabilization is superseded into the joint work with Weite Pi, Junliang Shen and Feinuo Zhang. The results on  Picard groups and some other results will appear later after revision )
 7. <a href=" https://changfeng1992.github.io/SiFei/P=C.pdf" target="_blank">Cohomological stabilization, perverse filtrations, and refined BPS invariants for del Pezzo surfaces.</a>
-with Weite Pi, Junliang Shen and Feinuo Zhang. (This paper supersedes the main part of our previous paper) 
+with Weite Pi, Junliang Shen and Feinuo Zhang. (This paper supersedes the main part of our previous paper)
+
+Cycles on moduli spaces
+
+5. [Chow ring of moduli spaces of quasi-polarised K3 surfaces in lower genus](https://arxiv.org/abs/2401.12580)
+
 ### Invited talks and Slides
 
 1. Compatifications of moduli spaces of K3 surfaces of degree 6, [East Asian Core Doctoral Forum on Mathematics 2020
