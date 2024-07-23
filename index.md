@@ -36,7 +36,7 @@ My reading notes on projective model of K3 surfaces.
 3. [K-moduli of log del pezzo pairs](https://arxiv.org/abs/2303.05651), with Long Pan and Haoyu Wu.
 4. [Birational geometry of moduli space of del Pezzo pairs](https://arxiv.org/abs/2309.10467), with Long Pan and Haoyu Wu.
 5. [Chow ring of moduli spaces of quasi-polarised K3 surfaces in lower genus](https://arxiv.org/abs/2401.12580)
-6. [Asymptotic Behaviors of Moduli of One-dimensional Sheaves on Surfaces](https://arxiv.org/abs/2406.11512), with Feinuo Zhang. (This paper will splits two parts, the result on Betti number stabilization is superseded into the joint work with Weite Pi, Junliang Shen and Feinuo Zhang. The results on  Picard groups will appear later after revision )
+6. [Asymptotic Behaviors of Moduli of One-dimensional Sheaves on Surfaces](https://arxiv.org/abs/2406.11512), with Feinuo Zhang. (This paper will splits two parts, the result on Betti number stabilization is superseded into the joint work with Weite Pi, Junliang Shen and Feinuo Zhang. The results on  Picard groups and some other results will appear later after revision )
 7. <a href=" https://changfeng1992.github.io/SiFei/P=C.pdf" target="_blank">Cohomological stabilization, perverse filtrations, and refined BPS invariants for del Pezzo surfaces.</a>
 with Weite Pi, Junliang Shen and Feinuo Zhang. (This paper supersedes the main part of our previous paper) 
 ### Invited talks and Slides
