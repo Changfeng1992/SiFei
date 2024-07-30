@@ -42,7 +42,7 @@ Cohomological apsect of moduli spaces:
 1. Cohomology of moduli space of cubic fourfolds I. [Acta Mathematica Sinica, English Series (2022)](https://link.springer.com/article/10.1007/s10114-022-1042-5)
 2. [Asymptotic Behaviors of Moduli of One-dimensional Sheaves on Surfaces](https://arxiv.org/abs/2406.11512), with Feinuo Zhang. (This paper will splits two parts, the result on Betti number stabilization is superseded into the joint work with Weite Pi, Junliang Shen and Feinuo Zhang. The results on  Picard groups and some other results will appear later after revision )
 3. <a href=" https://changfeng1992.github.io/SiFei/P=C.pdf" target="_blank">Cohomological stabilization, perverse filtrations, and refined BPS invariants for del Pezzo surfaces.</a>
-with Weite Pi, Junliang Shen and Feinuo Zhang. (This paper supersedes the main part of our previous paper)
+with [Weite Pi](https://sites.google.com/view/weitepi/), [Junliang Shen](https://sites.google.com/view/junliang/home) and Feinuo Zhang. (This paper supersedes the main part of our previous paper)
 
 Cycles on moduli spaces
 
