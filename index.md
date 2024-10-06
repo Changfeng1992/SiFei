@@ -40,9 +40,9 @@ Geometry of moduli spaces:
 Cohomological apsect of moduli spaces:
 
 1. Cohomology of moduli space of cubic fourfolds I. [Acta Mathematica Sinica, English Series (2022)](https://link.springer.com/article/10.1007/s10114-022-1042-5)
-2. [Asymptotic Behaviors of Moduli of One-dimensional Sheaves on Surfaces](https://arxiv.org/abs/2406.11512), with Feinuo Zhang. (This paper will splits two parts, the result on Betti number stabilization is superseded into the joint work with Weite Pi, Junliang Shen and Feinuo Zhang. The results on  Picard groups and some other results will appear later after revision )
+2. [Asymptotic Behaviors of Moduli of One-dimensional Sheaves on Surfaces](https://arxiv.org/abs/2406.11512), with [Feinuo Zhang](https://feinuozhang.github.io/). (This paper will splits two parts, the result on Betti number stabilization is superseded into the joint work with Weite Pi, Junliang Shen and Feinuo Zhang. The results on  Picard groups and some other results will appear later after revision )
 3. <a href=" https://changfeng1992.github.io/SiFei/P=C.pdf" target="_blank">Cohomological stabilization, perverse filtrations, and refined BPS invariants for del Pezzo surfaces.</a>
-with [Weite Pi](https://sites.google.com/view/weitepi/), [Junliang Shen](https://sites.google.com/view/junliang/home) and Feinuo Zhang. (This paper supersedes the main part of our previous paper)
+with [Weite Pi](https://sites.google.com/view/weitepi/), [Junliang Shen](https://sites.google.com/view/junliang/home) and [Feinuo Zhang](https://feinuozhang.github.io/). (This paper supersedes the main part of our previous paper)
 
 Cycles on moduli spaces
 
@@ -81,7 +81,8 @@ January 14-17, 2020, Kavli IPMU, Tokyo](https://www.ms.u-tokyo.ac.jp/~yasuyuki/e
   
 6.  From 2023 October, we have a reading seminar on moduli spaces of boundary polarised <a href=" https://changfeng1992.github.io/SiFei/seminar CY.pdf" target="_blank">CY</a>.
 
-7.  In the spring of 2024, we have a <a href=" https://changfeng1992.github.io/SiFei/Reading_seminars.pdf" target="_blank"> online reading seminar </a>   on cohomology of moduli spaces of sheaves on surface.  
+7.  In the spring of 2024, we have a <a href=" https://changfeng1992.github.io/SiFei/Reading_seminars.pdf" target="_blank"> online reading seminar </a>   on cohomology of moduli spaces of sheaves on surface.
+8.  2024 Fall, we continue the online reading seminar on moduli of sheaves. 
 
 ### Teaching 
 
