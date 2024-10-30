@@ -13,7 +13,7 @@ My CV is <a href=" https://changfeng1992.github.io/SiFei/CV.pdf" target="_blank"
 
 ##### Email: sifei@bicmr.pku.edu.cn
 
-#### Office Number = Quan Eulernumber(K3)
+#### Office: 208 math building
 
 
 ### Some Personal Notes:
