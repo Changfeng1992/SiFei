@@ -19,7 +19,7 @@ My CV is <a href=" https://changfeng1992.github.io/SiFei/CV.pdf" target="_blank"
 ### Some Personal Notes:
 
 1.<a href=" https://changfeng1992.github.io/SiFei/Rahul's _talk.pdf" target="_blank">Lehn's conjecture.</a>
-PDF version of Notes of Porf. Pandharipande's distingushed lecture at SCMS, Fall 2018. 
+PDF version of Notes of Prof. Pandharipande's distingushed lecture at SCMS, Fall 2018. 
 
 
 2.<a href=" https://changfeng1992.github.io/SiFei/Notes_GIT.pdf" target="_blank">GIT.</a>
