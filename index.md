@@ -8,7 +8,7 @@ From oct 2024, I will work at [school of math and statistics at Xi'an Jiaotong u
 
 Research Interest: algebraic geometry and related topics. Currently I work on some explicit compactifications of moduli spaces and their birational geometry, also  cohomology and cycle theory on these  moduli spaces.
 
-My CV is <a href=" https://changfeng1992.github.io/SiFei/CV.pdf" target="_blank">here</a>.
+My CV is <a href=" https://changfeng1992.github.io/SiFei/CV_Fei.pdf" target="_blank">here</a>.
 
 
 ##### Email: sifei@bicmr.pku.edu.cn   or   sifei@xjtu.edu.cn
