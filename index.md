@@ -11,8 +11,7 @@ Research Interest: algebraic geometry and related topics. Currently I work on so
 My CV is <a href=" https://changfeng1992.github.io/SiFei/CV.pdf" target="_blank">here</a>.
 
 
-##### Email: sifei@bicmr.pku.edu.cn   
-             sifei@xjtu.edu.cn
+##### Email: sifei@bicmr.pku.edu.cn   or   sifei@xjtu.edu.cn
                  
 #### Office: Math building 208
 
