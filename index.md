@@ -84,6 +84,13 @@ January 14-17, 2020, Kavli IPMU, Tokyo](https://www.ms.u-tokyo.ac.jp/~yasuyuki/e
 7.  In the spring of 2024, we have a <a href=" https://changfeng1992.github.io/SiFei/Reading_seminars.pdf" target="_blank"> online reading seminar </a>   on cohomology of moduli spaces of sheaves on surface.
 8.  2024 Fall, we continue the online reading seminar on moduli of sheaves. 
 
+
+#### AG activities in XJ:
+
+1.[Tianyuan Distinguished Lecture by Prof. Meng Chen](https://math.xjtu.edu.cn/info/1089/13459.htm)
+
+
+
 ### Teaching 
 
 1. In 2022.9, I give a mini-course on K3 surface at [BICMR](https://bicmr.pku.edu.cn/content/show/70-2771.html). Noetes for the course:
