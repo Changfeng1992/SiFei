@@ -152,7 +152,7 @@ Birational and complex geometers:
 
 IHS 
 [Voisin](https://webusers.imj-prg.fr/~claire.voisin/)
-[Huybrechtz](http://www.math.uni-bonn.de/~huybrech/)
+[Huybrechts](http://www.math.uni-bonn.de/~huybrech/)
 [Debarre](https://webusers.imj-prg.fr/olivier.debarre)
 [Macri](https://www.imo.universite-paris-saclay.fr/~macri/)
 [Hassett](http://www.math.brown.edu/~bhassett/)
