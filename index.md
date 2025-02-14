@@ -65,7 +65,7 @@ January 14-17, 2020, Kavli IPMU, Tokyo](https://www.ms.u-tokyo.ac.jp/~yasuyuki/e
  10.  [Cohomology of moduli spaces of cubic 4-folds](https://ymsc-moduli.github.io/activities-seminars.html), 2023.12.27, Seminar on "Moduli Spaces and Related Topics", YMSC
  11. Some explicit K-moduli spaces I, II. 2024.4.29, 4.30. ChongQing university.
  12. Cohomological aspect of moduli of 1D sheaves on surfaces, SIMIS Seminar on Algebraic Geometry, 2024.10.15
- 13. Tautological ring of moduli space of K3 surfaces, 2025.1.8, Xiamen universit
+ 13. Tautological ring of moduli space of K3 surfaces, 2025.1.8, Xiamen university
 
 
 ### Seminars
