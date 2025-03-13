@@ -4,9 +4,9 @@
 
 ### About me:
 
-From oct 2024, I will work at [school of math and statistics at Xi'an Jiaotong university](https://math.xjtu.edu.cn/) as assistant professor.  Before I was a Phd student at [SCMS](http://www.scms.fudan.edu.cn/), Fudan University under supervision Prof. [Meng Chen](https://faculty.fudan.edu.cn/chenmeng/zh_CN/index.htm) and Prof. [Zhiyuan Li](https://faculty.fudan.edu.cn/zhiyuanli/zh_CN/index.htm). Then I was a Postdoc at [BICMR](https://bicmr.pku.edu.cn/).
+From oct 2024, I work at [school of math and statistics at Xi'an Jiaotong university](https://math.xjtu.edu.cn/) as an assistant professor.  Before I was a Phd student at [SCMS](http://www.scms.fudan.edu.cn/), Fudan University under supervision of Prof. [Meng Chen](https://faculty.fudan.edu.cn/chenmeng/zh_CN/index.htm) and Prof. [Zhiyuan Li](https://faculty.fudan.edu.cn/zhiyuanli/zh_CN/index.htm). Then I was a Postdoc at [BICMR](https://bicmr.pku.edu.cn/).
 
-Research Interest: algebraic geometry and related topics. Currently I work on some explicit compactifications of moduli spaces and their birational geometry, also  cohomology and cycle theory on these  moduli spaces.
+Research Interest: algebraic geometry and related topics. Currently I work on some explicit compactifications of moduli spaces and their birational geometry,  cohomology and cycle theory on these  moduli spaces and also cohomological structure of moduli spaces of sheaves.
 
 My CV is <a href=" https://changfeng1992.github.io/SiFei/CV_Fei.pdf" target="_blank">here</a>.
 
@@ -43,6 +43,7 @@ Cohomological apsect of moduli spaces:
 2. [Asymptotic Behaviors of Moduli of One-dimensional Sheaves on Surfaces](https://arxiv.org/abs/2406.11512), with [Feinuo Zhang](https://feinuozhang.github.io/). (This paper will splits two parts, the result on Betti number stabilization is superseded into the joint work with Weite Pi, Junliang Shen and Feinuo Zhang. The results on  Picard groups and some other results will appear later after revision )
 3. <a href=" https://changfeng1992.github.io/SiFei/P=C.pdf" target="_blank">Cohomological stabilization, perverse filtrations, and refined BPS invariants for del Pezzo surfaces.</a>
 with [Weite Pi](https://sites.google.com/view/weitepi/), [Junliang Shen](https://sites.google.com/view/junliang/home) and [Feinuo Zhang](https://feinuozhang.github.io/). (This paper supersedes the main part of our previous paper)
+4. [On the Picard numbers of moduli spaces of one-dimensional sheaves on surfaces](https://arxiv.org/abs/2503.06153) with [Feinuo Zhang](https://feinuozhang.github.io/). 
 
 Cycles on moduli spaces
 
