@@ -94,7 +94,7 @@ January 14-17, 2020, Kavli IPMU, Tokyo](https://www.ms.u-tokyo.ac.jp/~yasuyuki/e
 
 
 2. Xi'an International Workshop on Algebraic Geometry, 2025 october,  TBA
-
+git submodule add https://github.com/Changfeng1992/AG2025.git AG-2025
 
 
 ### Teaching 
