@@ -91,6 +91,7 @@ January 14-17, 2020, Kavli IPMU, Tokyo](https://www.ms.u-tokyo.ac.jp/~yasuyuki/e
 #### AG activities in XJ:
 
 1.[Tianyuan Distinguished Lecture by Prof. Meng Chen](https://math.xjtu.edu.cn/info/1089/13459.htm)
+2. [Xi'an International Workshop on Algebraic Geometry] 2025, october 
 
 
 
