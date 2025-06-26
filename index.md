@@ -42,7 +42,7 @@ Cohomological apsect of moduli spaces:
 1. Cohomology of moduli space of cubic fourfolds I. [Acta Mathematica Sinica, English Series (2022)](https://link.springer.com/article/10.1007/s10114-022-1042-5)
 2. [Asymptotic Behaviors of Moduli of One-dimensional Sheaves on Surfaces](https://arxiv.org/abs/2406.11512), with [Feinuo Zhang](https://feinuozhang.github.io/). (This paper will splits two parts, the result on Betti number stabilization is superseded into the joint work with Weite Pi, Junliang Shen and Feinuo Zhang. The results on  Picard groups and some other results  appear [here](https://arxiv.org/abs/2503.06153) as joint work with [Feinuo Zhang](https://feinuozhang.github.io/). )
 3. <a href=" https://changfeng1992.github.io/SiFei/P=C.pdf" target="_blank">Cohomological stabilization, perverse filtrations, and refined BPS invariants for del Pezzo surfaces.</a>
-with [Weite Pi](https://sites.google.com/view/weitepi/), [Junliang Shen](https://sites.google.com/view/junliang/home) and [Feinuo Zhang](https://feinuozhang.github.io/). (This paper supersedes the main part of our previous paper)
+with [Weite Pi](https://sites.google.com/view/weitepi/), [Junliang Shen](https://sites.google.com/view/junliang/home) and [Feinuo Zhang](https://feinuozhang.github.io/). (This paper supersedes the main part of our previous paper)  A poster <a href=" https://changfeng1992.github.io/SiFei/Reading_seminars.pdf" target="_blank">
 4. [On the Picard numbers of moduli spaces of one-dimensional sheaves on surfaces](https://arxiv.org/abs/2503.06153) with [Feinuo Zhang](https://feinuozhang.github.io/). 
 
 Cycles on moduli spaces
@@ -90,8 +90,8 @@ January 14-17, 2020, Kavli IPMU, Tokyo](https://www.ms.u-tokyo.ac.jp/~yasuyuki/e
 
 #### AG activities in XJ:
 
-###### [Tianyuan Distinguished Lecture by Prof. Meng Chen](https://math.xjtu.edu.cn/info/1089/13459.htm)
-###### [Xi'an International Workshop On Algebraic Geometry](https://changfeng1992.github.io/AG-conference-2025/), 2025 october, TBA
+##### [Tianyuan Distinguished Lecture by Prof. Meng Chen](https://math.xjtu.edu.cn/info/1089/13459.htm)
+##### [Xi'an International Workshop On Algebraic Geometry](https://changfeng1992.github.io/AG-conference-2025/), 2025 october, TBA
 
 
 ### Teaching 
