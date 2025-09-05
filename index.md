@@ -34,7 +34,7 @@ My reading notes on projective model of K3 surfaces.
 Geometry of moduli spaces:
 
 1. Compactifications of moduli space of K3 surfaces of degree 6, with Francois Greer, Radu Laza, Zhiyuan Li, Zhiyu Tian. in preparation (draft available).
-2. [K-moduli of log del pezzo pairs](https://arxiv.org/abs/2303.05651), with Long Pan and Haoyu Wu, accepted by adv.math.
+2. [K-moduli of log del pezzo pairs](https://arxiv.org/abs/2303.05651), with Long Pan and Haoyu Wu, accepted by Adv.Math.
 3. [Birational geometry of moduli space of del Pezzo pairs](https://arxiv.org/abs/2309.10467), with Long Pan and Haoyu Wu.
 
 Cohomological apsect of moduli spaces:
