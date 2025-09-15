@@ -34,16 +34,17 @@ My reading notes on projective model of K3 surfaces.
 Geometry of moduli spaces:
 
 1. Compactifications of moduli space of K3 surfaces of degree 6, with Francois Greer, Radu Laza, Zhiyuan Li, Zhiyu Tian. in preparation (draft available).
-2. [K-moduli of log del pezzo pairs](https://arxiv.org/abs/2303.05651), with Long Pan and Haoyu Wu, accepted by Adv.Math.
+2. [K-moduli of log del pezzo pairs](https://arxiv.org/abs/2303.05651), with Long Pan and Haoyu Wu, [Advances in Mathematics
+Volume 481, December 2025](https://www.sciencedirect.com/science/article/pii/S0001870825004347).
 3. [Birational geometry of moduli space of del Pezzo pairs](https://arxiv.org/abs/2309.10467), with Long Pan and Haoyu Wu.
 
 Cohomological apsect of moduli spaces:
 
-1. Cohomology of moduli space of cubic fourfolds I. [Acta Mathematica Sinica, English Series (2022)](https://link.springer.com/article/10.1007/s10114-022-1042-5)
+1. Cohomology of moduli space of cubic fourfolds I. [Acta Mathematica Sinica, English Series, Volume 39, pages 773–798, (2023))](https://link.springer.com/article/10.1007/s10114-022-1042-5)
 2. [Asymptotic Behaviors of Moduli of One-dimensional Sheaves on Surfaces](https://arxiv.org/abs/2406.11512), with [Feinuo Zhang](https://feinuozhang.github.io/). (This paper will split two parts, the result on Betti number stabilization is superseded into the joint work with Weite Pi, Junliang Shen and Feinuo Zhang. The results on  Picard groups and some other results added appear [here](https://arxiv.org/abs/2503.06153) as joint work with [Feinuo Zhang](https://feinuozhang.github.io/). )
 3. <a href=" https://changfeng1992.github.io/SiFei/P=C.pdf" target="_blank">Cohomological stabilization, perverse filtrations, and refined BPS invariants for del Pezzo surfaces.</a>
 with [Weite Pi](https://sites.google.com/view/weitepi/), [Junliang Shen](https://sites.google.com/view/junliang/home) and [Feinuo Zhang](https://feinuozhang.github.io/). (This paper supersedes the main part of our previous paper)   <a href=" https://changfeng1992.github.io/SiFei/Poster_P_C.pdf" target="_blank"> A poster </a> for this work.
-4. [On the Picard numbers of moduli spaces of one-dimensional sheaves on surfaces](https://arxiv.org/abs/2503.06153) with [Feinuo Zhang](https://feinuozhang.github.io/). 
+4. [On the Picard numbers of moduli spaces of one-dimensional sheaves on surfaces](https://arxiv.org/abs/2503.06153) with [Feinuo Zhang](https://feinuozhang.github.io/), accepted by TrAMS. 
 
 Cycles on moduli spaces
 
