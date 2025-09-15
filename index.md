@@ -44,7 +44,7 @@ Cohomological apsect of moduli spaces:
 2. [Asymptotic Behaviors of Moduli of One-dimensional Sheaves on Surfaces](https://arxiv.org/abs/2406.11512), with [Feinuo Zhang](https://feinuozhang.github.io/). (This paper will split two parts, the result on Betti number stabilization is superseded into the joint work with Weite Pi, Junliang Shen and Feinuo Zhang. The results on  Picard groups and some other results added appear [here](https://arxiv.org/abs/2503.06153) as joint work with [Feinuo Zhang](https://feinuozhang.github.io/). )
 3. <a href=" https://changfeng1992.github.io/SiFei/P=C.pdf" target="_blank">Cohomological stabilization, perverse filtrations, and refined BPS invariants for del Pezzo surfaces.</a>
 with [Weite Pi](https://sites.google.com/view/weitepi/), [Junliang Shen](https://sites.google.com/view/junliang/home) and [Feinuo Zhang](https://feinuozhang.github.io/). (This paper supersedes the main part of our previous paper)   <a href=" https://changfeng1992.github.io/SiFei/Poster_P_C.pdf" target="_blank"> A poster </a> for this work.
-4. [On the Picard numbers of moduli spaces of one-dimensional sheaves on surfaces](https://arxiv.org/abs/2503.06153) with [Feinuo Zhang](https://feinuozhang.github.io/), accepted by TrAMS. 
+4. [On the Picard numbers of moduli spaces of one-dimensional sheaves on surfaces](https://arxiv.org/abs/2503.06153) with [Feinuo Zhang](https://feinuozhang.github.io/), accepted by  Trans.AMS. 
 
 Cycles on moduli spaces
 
