@@ -174,3 +174,4 @@ Arithmetic geometers and Representation theorists:
 [Esnault](http://page.mi.fu-berlin.de/esnault/)
 [Bruinier](https://www.mathematik.tu-darmstadt.de/fb/personal/details/jan_hendrik_bruinier.en.jsp)
 [Lan](https://www-users.cse.umn.edu/~kwlan/)
+[PingXi](https://pingxicn.wordpress.com/)
