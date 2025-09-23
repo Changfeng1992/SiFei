@@ -103,7 +103,8 @@ January 14-17, 2020, Kavli IPMU, Tokyo](https://www.ms.u-tokyo.ac.jp/~yasuyuki/e
 <a href=" https://changfeng1992.github.io/SiFei/Lect3 and Lect4.pdf" target="_blank">Lecture 3,4.</a>
 <a href=" https://changfeng1992.github.io/SiFei/Lect5,6.pdf" target="_blank">Lecture 5,6.</a>
 2. TA for summer school [2024 algebra and number theory](http://antss.amss.ac.cn/client/index)
-3. Guidance for  undergradute student reading seminar on algebraic geometry at XJTU, 2024 fall. 
+3. Guidance for  undergradute student reading seminar on algebraic geometry at XJTU, 2024 fall.
+4. Abstract algebra, 2025 fall.
 
 
 ### Some codes
