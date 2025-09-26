@@ -89,10 +89,10 @@ January 14-17, 2020, Kavli IPMU, Tokyo](https://www.ms.u-tokyo.ac.jp/~yasuyuki/e
 8.  2024 Fall, we continue the online reading seminar on moduli of sheaves. 
 
 
-#### AG activities in XJ:
+### AG activities:
 
-##### [Tianyuan Distinguished Lecture by Prof. Meng Chen](https://math.xjtu.edu.cn/info/1089/13459.htm)
-##### [Xi'an International Workshop On Algebraic Geometry](https://changfeng1992.github.io/AG-conference-2025/), 2025 october, TBA
+#### [Tianyuan Distinguished Lecture by Prof. Meng Chen](https://math.xjtu.edu.cn/info/1089/13459.htm)
+#### [Xi'an International Workshop On Algebraic Geometry](https://changfeng1992.github.io/AG-conference-2025/), 2025 october, TBA
 
 
 ### Teaching 
