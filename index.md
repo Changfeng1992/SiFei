@@ -37,6 +37,7 @@ Geometry of moduli spaces:
 2. [K-moduli of log del pezzo pairs](https://arxiv.org/abs/2303.05651), with Long Pan and Haoyu Wu, [Advances in Mathematics
 Volume 481, December 2025](https://www.sciencedirect.com/science/article/pii/S0001870825004347).
 3. [Birational geometry of moduli space of del Pezzo pairs](https://arxiv.org/abs/2309.10467), with Long Pan and Haoyu Wu.
+4. [Two results regarding the variation of K-moduli](https://arxiv.org/abs/2303.10963), with Chuyu Zhou and Zheng Zhang.
 
 Cohomological apsect of moduli spaces:
 
