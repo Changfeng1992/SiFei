@@ -45,7 +45,7 @@ Cohomological apsect of moduli spaces:
 2. [Asymptotic Behaviors of Moduli of One-dimensional Sheaves on Surfaces](https://arxiv.org/abs/2406.11512), with [Feinuo Zhang](https://feinuozhang.github.io/). (This paper will split two parts, the result on Betti number stabilization is superseded into the joint work with Weite Pi, Junliang Shen and Feinuo Zhang. The results on  Picard groups and some other results added appear [here](https://arxiv.org/abs/2503.06153) as joint work with [Feinuo Zhang](https://feinuozhang.github.io/). )
 3. <a href=" https://changfeng1992.github.io/SiFei/P=C.pdf" target="_blank">Cohomological stabilization, perverse filtrations, and refined BPS invariants for del Pezzo surfaces.</a>
 with [Weite Pi](https://sites.google.com/view/weitepi/), [Junliang Shen](https://sites.google.com/view/junliang/home) and [Feinuo Zhang](https://feinuozhang.github.io/). (This paper supersedes the main part of our previous paper)   <a href=" https://changfeng1992.github.io/SiFei/Poster_P_C.pdf" target="_blank"> A poster </a> for this work.
-4. [On the Picard numbers of moduli spaces of one-dimensional sheaves on surfaces][Trans. Amer. Math. Soc., 2026 vol. 379, no. 6, pp. 4143-4168](https://pubs.ams.org/TRAN/2026-379-06/S0002-9947-2026-09645-X) with [Feinuo Zhang](https://feinuozhang.github.io/).
+4. On the Picard numbers of moduli spaces of one-dimensional sheaves on surfaces[Trans. Amer. Math. Soc., 2026 vol. 379, no. 6, pp. 4143-4168](https://pubs.ams.org/TRAN/2026-379-06/S0002-9947-2026-09645-X) with [Feinuo Zhang](https://feinuozhang.github.io/).
 5. [Stabilization of intersection Betti numbers for moduli spaces of one-dimensional sheaves on surfaces](https://arxiv.org/abs/2511.18426) with [Feinuo Zhang](https://feinuozhang.github.io/).
 
 Cycles on moduli spaces
@@ -95,7 +95,7 @@ January 14-17, 2020, Kavli IPMU, Tokyo](https://www.ms.u-tokyo.ac.jp/~yasuyuki/e
 
 #### [Tianyuan Distinguished Lecture by Prof. Meng Chen](https://math.xjtu.edu.cn/info/1089/13459.htm)
 #### [Xi'an International Workshop On Algebraic Geometry](https://changfeng1992.github.io/AG-conference-2025/), 2025 october 
-### [Tianyuan Distinguished Lecture by Prof. Huailiang Chang](https://math.xjtu.edu.cn/info/1089/14944.htm)
+#### [Tianyuan Distinguished Lecture by Prof. Huailiang Chang](https://math.xjtu.edu.cn/info/1089/14944.htm)
 
 
 ### Teaching 
